@@ -1,0 +1,9 @@
+# backups de texto
+*~
+*.swp
+
+# lock do .doc
+*lock*
+
+# zip
+*.zip
